@@ -45,13 +45,20 @@ meaning we'll write absolutely everything from scratch.
 ## Components 🧩
 
 - **CLI Client**
+  <img src="https://github.com/yasir2000/reminders-cli/raw/master/images/Screenshot_6.png?sanitize=true"/>
 - **HTTP client** for communicating with the Backend API
+  <img src="https://github.com/yasir2000/reminders-cli/raw/master/images/Screenshot_7.png?sanitize=true"/>
 - **Backend API**
+  <img src="https://github.com/yasir2000/reminders-cli/raw/master/images/Screenshot_1.png?sanitize=true"/>
 - **HTTP client** for communicating with the Notifier service
 - **Notifier** service
+  <img src="https://github.com/yasir2000/reminders-cli/raw/master/images/Screenshot_2.png?sanitize=true"/>
 - Background **Saver worker**
+- <img src="https://github.com/yasir2000/reminders-cli/raw/master/images/Screenshot_3.png?sanitize=true"/>
 - Background **Notifier worker**
+  <img src="https://github.com/yasir2000/reminders-cli/raw/master/images/Screenshot_4.png?sanitize=true"/>
 - JSON file **Database** (`db.json`)
+  <img src="https://github.com/yasir2000/reminders-cli/raw/master/images/Screenshot_5.png?sanitize=true"/>
 - **Database config** file (`.db.config.json`)
 
 ## CLI Client
@@ -84,6 +91,9 @@ retrying unsent notifications until Notifier service is up
 - `POST /reminders/fetch`       - fetches a list of reminders from DB
 - `DELETE /reminders/delete`    - deletes a list of reminders from DB
 
+
+## HTTP Client
+<img src="https://github.com/yasir2000/reminders-cli/raw/master/images/Screenshot_8.png?sanitize=true"/>
 ## Background Saver
 
 #### Features
