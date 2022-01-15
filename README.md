@@ -51,6 +51,7 @@ meaning we'll write absolutely everything from scratch.
 - **Backend API**
   <img src="https://github.com/yasir2000/my-reminders-cli/raw/master/images/Screenshot_1.png?sanitize=true"/>
 - **HTTP client** for communicating with the Notifier service
+  <img src="https://github.com/yasir2000/my-reminders-cli/raw/master/images/Screenshot_8.png?sanitize=true"/>
 - **Notifier** service
   <img src="https://github.com/yasir2000/my-reminders-cli/raw/master/images/Screenshot_2.png?sanitize=true"/>
 - Background **Saver worker**
@@ -91,9 +92,6 @@ retrying unsent notifications until Notifier service is up
 - `POST /reminders/fetch`       - fetches a list of reminders from DB
 - `DELETE /reminders/delete`    - deletes a list of reminders from DB
 
-
-## HTTP Client
-<img src="https://github.com/yasir2000/my-reminders-cli/raw/master/images/Screenshot_8.png?sanitize=true"/>
 ## Background Saver
 
 #### Features
