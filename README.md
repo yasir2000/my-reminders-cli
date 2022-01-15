@@ -163,6 +163,12 @@ For more info refer to [GitBash - CygWin](https://gist.github.com/evanwill/02078
 ## Run 🎮
 
 #### `make` commands
+```bash
+# install node modules
+cd notifier
+npm install
+
+#### `make` commands
 
 ```bash
 # builds client & server binaries, formats & lints the code
