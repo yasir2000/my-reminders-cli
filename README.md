@@ -162,11 +162,12 @@ For more info refer to [GitBash - CygWin](https://gist.github.com/evanwill/02078
 
 ## Run 🎮
 
-#### `make` commands
+#### `node` commands
 ```bash
 # install node modules
 cd notifier
 npm install
+```
 
 #### `make` commands
 
