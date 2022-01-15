@@ -43,6 +43,7 @@ The rest is pure `Go code` also **without** any **third party packages**
 meaning we'll write absolutely everything from scratch.
 
 ## Components 🧩
+<img src="https://github.com/yasir2000/my-reminders-cli/raw/master/images/Screenshot_22.png?sanitize=true"/>
 
 - **CLI Client**
   <img src="https://github.com/yasir2000/my-reminders-cli/raw/master/images/Screenshot_6.png?sanitize=true"/>
