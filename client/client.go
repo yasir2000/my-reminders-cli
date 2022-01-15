@@ -1,6 +1,8 @@
 package client
 
-import "fmt"
+import (
+	"fmt"
+)
 
 // wrapError wraps a plain error into a custom error
 func wrapError(customMsg string, originalErr error) error {

@@ -8,7 +8,6 @@ import (
 )
 
 //custom type aas value interface
-
 type IdsFlag []string
 
 func (ids IdsFlag) String() string {

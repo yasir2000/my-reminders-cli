@@ -3,7 +3,7 @@ package controllers
 import (
 	"net/http"
 
-	"github.com/yasir2000/my-reminder-cli/server/middleware"
+	"github.com/yasir2000/my-reminders-cli/server/middleware"
 )
 
 // HTTP params
